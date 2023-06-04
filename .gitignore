@@ -1,0 +1,6 @@
+/target/
+/doc/
+.idea/
+.vscode/
+Cargo.lock
+tagscript_rs
